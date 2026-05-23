@@ -1,0 +1,489 @@
+header {
+    width: 1280px;
+    height: 93px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 100%;
+}
+
+header {
+    background-color: #833AE1;
+    padding: 20px 30px;
+}
+
+header img {
+    width: 42px;
+    height: 52px;
+    display: flex;
+}
+
+header a {
+    color: #FFFFFF;
+    font-size: 24px;
+    margin: 0px 95px;
+    height: 24px;
+    text-align: center;
+    margin: 0px 35px;
+}
+
+.algotitmika {
+    border-radius: 20px;
+    background-color: #833AE1;
+    text-align: center;
+    padding: 0px 20px;
+    margin: 23px 0px 145px 0px;
+}
+
+.algotitmika p {
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 78px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    margin: 127px 0px 43px 0px;
+}
+
+.banner {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 78px;
+    letter-spacing: 0%;
+    text-align: center;
+    max-width: 970px;
+}
+
+.dp {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 52.29px;
+    padding: 26px 519px 39px 519px;
+    border-bottom: solid #602B7A 2px;
+    width: 1218.3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dp a {
+    color: #602B7AF5;
+    text-decoration: none;
+    width: 182;
+    font-family: Montserrat;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 25px;
+leading-trim: NONE;
+line-height: 35px;
+letter-spacing: 0%;
+}
+
+footer {
+    width: 100%;
+    height: 199px;
+}
+
+.tegs {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-style: Italic;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    width: 1218.3px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #602B7AF5;
+}
+
+.gazan {
+    max-width: 344.42px;
+    color: #602B7AF5;
+}
+
+.ocurse {
+    border-bottom: #602B7A 2px solid;
+    width: 1218.3px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #602B7A;
+}
+
+.text {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 42px 0px 69px 0px;
+    color: #602B7A;
+}
+
+.block {
+    width: 486px;
+    height: 182px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 91px;
+}
+
+.curs {
+    background: linear-gradient(180deg, rgba(203, 248, 109, 0.49) 4.17%, rgba(203, 248, 109, 0.5) 18.23%, #FBF9F9 67.19%);
+    border: solid 4px #833AE1;
+    color: #602B7A;
+
+}
+
+.idea {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 50px;
+    line-height: 63px;
+    letter-spacing: 0%;
+    color: #833AE1;
+    margin: 0px 0px 0px 50.74px;
+}
+
+.rasrobotka {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 50px;
+    line-height: 63px;
+    letter-spacing: 0%;
+    color: #A5DC31;
+    margin: 0px 0px 0px 50.74px;
+}
+
+.uniblock {
+    background-color: #FFFFFF;
+    width: 575px;
+    height: 326px;
+    border-radius: 15px;
+    border-width: 1px;
+    border: #833AE1 solid 1px;
+}
+
+
+.uniblock .krug img {
+    width: 48px;
+    height: 50px;
+}
+
+.strocka {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 37.39px;
+    margin-bottom: 26px;
+    gap: 23.11px;
+}
+
+.I {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 26px;
+    leading-trim: NONE;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #602B7AF5;
+}
+
+.uniblock p {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 22px;
+    leading-trim: NONE;
+    line-height: 32px;
+    letter-spacing: 0%;
+    margin-left: 38px;
+    color: #602B7AF5;
+}
+
+.strocko {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.uniblocko {
+    background-color: #FFFFFF;
+    width: 551.111083984375px;
+    height: 326px;
+    border-radius: 15px;
+    border-width: 1px;
+    border: #833AE1 solid 1px;
+    margin-top: 30px;
+    margin-bottom: 58px;
+}
+
+.uniblocko p {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 22px;
+    leading-trim: NONE;
+    line-height: 32px;
+    letter-spacing: 0%;
+    margin-left: 38px;
+    color: #602B7A;
+}
+
+.tehnology {
+    border: solid 4px #833AE1;
+}
+
+.tung {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 64px;
+    leading-trim: NONE;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.tech-h2{
+    max-width: none;
+    margin-top: 125px;
+    margin-bottom: 45px;
+    color: #602B7A;
+    font-family: Montserrat;
+font-weight: 800;
+font-style: ExtraBold;
+font-size: 64px;
+leading-trim: NONE;
+line-height: 35px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+.ggg p{
+font-family: Montserrat;
+font-weight: 500;
+font-style: Medium;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: center;
+color: #602B7AF5;
+}
+
+.ggg {
+    margin-bottom: 16px;
+}
+
+.mini-block p {
+font-family: Montserrat;
+font-weight: 500;
+font-style: Medium;
+font-size: 28px;
+leading-trim: NONE;
+line-height: 35px;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+color: #602B7A;
+}
+
+.mini-block {
+    width: 500px;
+    height: 88px;
+    border: #602B7AF5 solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 18px;
+}
+
+.strocky{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    margin-top: 40px;
+}
+
+.blocks {
+    margin-bottom: 68px;
+}
+
+.ocurse p {
+    font-family: Montserrat;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 35px;
+letter-spacing: 0%;
+color: #602B7A;
+}
+
+.bio {
+    border: #833AE1 4px solid;
+}
+
+.maa {
+font-family: Montserrat;
+font-weight: 700;
+font-style: Bold;
+font-size: 48px;
+leading-trim: NONE;
+line-height: 35px;
+letter-spacing: 0%;
+color: #602B7A;
+margin-top: 124px;
+padding: 0px;
+margin-left: 30px;
+margin-bottom: 25px;
+}
+
+.years {
+    font-family: Montserrat;
+font-weight: 700;
+font-style: Bold;
+font-size: 25px;
+leading-trim: NONE;
+line-height: 35px;
+letter-spacing: 0%;
+color: #602B7A;
+margin-left: 30px;
+margin-bottom: 42px;
+}
+
+ul {
+font-family: Montserrat;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 25px;
+leading-trim: NONE;
+line-height: 35px;
+letter-spacing: 0%;
+margin-left: 60px;
+margin-bottom: 117px;
+}
+
+li {
+    color: #602B7A;
+}
+
+.me {
+width: 320px;
+height: 369px;
+top: 3175px;
+left: 930px;
+angle: 0 deg;
+opacity: 1;
+object-fit: hidden;
+border-radius: 25px;
+float: right;
+margin-right: 30px;
+margin-bottom: 98px;
+object-fit: cover;
+object-position: top;
+}
+
+.silki a:hover {
+  transform: scale(1.5);
+}
+
+.silki a{
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.dp a:hover {
+  transform: scale(1.5);
+}
+
+.dp a{
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.mini-block{
+  transition: 0.3s all;
+  transform: 0.5s ease;
+  background-color: #FFFFFF;
+  color: #602B7A;
+}
+
+.mini-block:hover {
+  transform: scale(1.2);
+  background-color: #602B7A;
+}
+
+.mini-block:hover p {
+    color: #FFFFFF;
+}
+
+.uniblock{
+    background-color: #FFFFFF;
+  color: #602B7A;
+  transition: all 0.5s;
+}
+
+.uniblock:hover{
+    background-color: #602B7A;
+}
+
+.I {
+    transition: 0.5s;
+}
+
+.uniblock:hover h3{
+    color: #FFFFFF;
+}
+
+.uniblock:hover p{
+    color: #FFFFFF;
+}
+
+.uniblocko{
+    background-color: #FFFFFF;
+  color: #602B7A;
+  transition: all 0.5s;
+}
+
+.uniblocko:hover{
+    background-color: #602B7A;
+}
+
+  .uniblocko:hover h3{
+    color: #FFFFFF;
+}
+
+.uniblocko:hover p{
+    color: #FFFFFF;
+}
